@@ -8,7 +8,7 @@
 }
 
 :root {
-  font-family: "Source Serif Pro";
+  font-family: "Source Serif Pro", sans-serif;
   font-size: 62.5%;
 }
 
@@ -36,7 +36,7 @@ img {
 }
 
 button {
-  font-family: "Source Serif 4";
+  font-family: "Source Serif 4", sans-serif;
   background-color: #a54328;
 
   color: white;
